@@ -3,4 +3,4 @@ def read_name():
 	return name
 
 def greetins(name)
-	print("Hello, %s", % name)
+	print("Hello, %s"!, % name)
